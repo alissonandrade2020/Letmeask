@@ -257,7 +257,7 @@ Depois que sua solicitação de pull request for mesclada, você pode excluir `y
 <img src="https://avatars.githubusercontent.com/u/39311340?s=60&v=4" width="100px" alt="Alisson de Andrade Araújo"/>
 <div>
 <a href="mailto:alisson2d@hotmail.com">
-      <img alt="Alisson de Andrade Araúho" src="https://img.shields.io/badge/-gmail-0077B5?style=for-the-badge&logo=hotmail&logoColor=white" />
+      <img alt="Alisson de Andrade Araúho" src="https://img.shields.io/badge/-hotmail-0077B5?style=for-the-badge&logo=hotmail&logoColor=white" />
    </a>
 <a href="https://www.linkedin.com/in/alisson-de-andrade-ara%C3%BAjo-160224190/">
       <img alt="Alisson de Andrade Araújo" src="https://img.shields.io/badge/-linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" />
