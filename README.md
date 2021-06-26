@@ -6,25 +6,25 @@
   <!-- LICENSE -->
   <img alt="License" src="https://img.shields.io/badge/license-MIT-5965e0?style=for-the-badge&labelColor=5A5A5A&color=0077B5">
 <!-- LAST COMMIT -->
-<a href="https://github.com/marcelo-rafael/nlw-06-letmeask/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/marcelo-rafael/nlw-06-letmeask?style=for-the-badge&label=last%20commit:&labelColor=5A5A5A&color=0077B5">
+<a href="https://github.com/alissonandrade2020/Letmeask/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/alissonandrade2020/Letmeask?style=for-the-badge&label=last%20commit:&labelColor=5A5A5A&color=0077B5">
   </a>
 <!-- STARS -->
-  <a href="https://github.com/marcelo-rafael/nlw-06-letmeask/stargazers/master">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/marcelo-rafael/nlw-06-letmeask?style=for-the-badge&label=stars&labelColor=5A5A5A&color=0077B5&logo=github">
+  <a href="https://github.com/alissonandrade2020/Letmeask/stargazers/master">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/alissonandrade2020/Letmeask?style=for-the-badge&label=stars&labelColor=5A5A5A&color=0077B5&logo=github">
   </a>
   <!-- FORKS -->
-  <a href="https://github.com/marcelo-rafael/nlw-06-letmeask/forks/master">
-    <img alt="Forks" src="https://img.shields.io/github/forks/marcelo-rafael/nlw-06-letmeask?style=for-the-badge&label=forks&labelColor=5A5A5A&color=0077B5&logo=github">
+  <a href="https://github.com/alissonandrade2020/Letmeask/forks/master">
+    <img alt="Forks" src="https://img.shields.io/github/forks/alissonandrade2020/Letmeask?style=for-the-badge&label=forks&labelColor=5A5A5A&color=0077B5&logo=github">
   </a>
   <!-- AUTHOR -->
-  <img alt="Author Marcelo Rafael Gonçalves" src="https://img.shields.io/badge/author-Marcelo%20Rafael-informational?style=for-the-badge&labelColor=5A5A5A&color=0077B5">
+  <img alt="Author Alisson de Andrade Araújo" src="https://img.shields.io/badge/author-Alisson%20Andrade-informational?style=for-the-badge&labelColor=5A5A5A&color=0077B5">
   <!-- LANGUAGES -->
-   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/marcelo-rafael/nlw-06-letmeask?style=for-the-badge&labelColor=5A5A5A&color=0077B5">
+   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/alissonandrade2020/Letmeask?style=for-the-badge&labelColor=5A5A5A&color=0077B5">
   <!-- REPO SIZE -->
-  <img alt="Repo size" src="https://img.shields.io/github/repo-size/marcelo-rafael/nlw-06-letmeask?style=for-the-badge&labelColor=5A5A5A&color=0077B5">
+  <img alt="Repo size" src="https://img.shields.io/github/repo-size/alissonandrade2020/Letmeask?style=for-the-badge&labelColor=5A5A5A&color=0077B5">
   <!-- CONTRIBUTORS -->
- <img alt="CONTRIBUTORS" src="https://img.shields.io/github/contributors/marcelo-rafael/nlw-06-letmeask?style=for-the-badge&labelColor=5A5A5A&color=0077B5">
+ <img alt="CONTRIBUTORS" src="https://img.shields.io/github/contributors/alissonandrade2020/Letmeask?style=for-the-badge&labelColor=5A5A5A&color=0077B5">
 </div>
 
 
