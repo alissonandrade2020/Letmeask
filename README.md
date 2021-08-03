@@ -277,7 +277,6 @@ Feito com ❤️ por <a href="https://www.linkedin.com/in/alisson-de-andrade-ara
  💜🚀</a>
 </h3>
 
-
 ## Apresentação:
 
 - [Currículo Lattes](http://lattes.cnpq.br/7594653859194302)
@@ -318,7 +317,7 @@ Feito com ❤️ por <a href="https://www.linkedin.com/in/alisson-de-andrade-ara
  
  - [Ecoleta](https://alisssonecoleta.herokuapp.com/)
 
- - [Nlw 06 Rocketq](https://nlw06rocketqalissonandrade.vercel.app)
+ - [Nlw 06 Rocketq](https://nlw06rocketqalissonandrade.herokuapp.com/)
 
  - [Credit Card](https://creditcardalissonandrade.vercel.app/)
   
